@@ -7,6 +7,8 @@ import java.util.HashSet;
 //Testcase1 : str1 - [cat],str2 - [rat]
 //Testcase2: str1 - [art], str2- [a]
 //Testcase 3: str1- [study], str2 -[ergo]
+//Time Complexity:
+//Space Complexity:
 public class TwoStrings {
 
     public static void main(String[] args) {
