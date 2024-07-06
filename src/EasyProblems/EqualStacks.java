@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Stack;
 
+//https://www.hackerrank.com/challenges/equal-stacks/problem
+
 public class EqualStacks {
 
    public static void main(String args[])
