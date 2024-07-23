@@ -18,6 +18,7 @@ public class RepeatedStrings {
         //In the string find how many times 'a' is found
         long acount=value.chars().filter(c->c=='a').count();
 
+
         //In K length how many times the complete string occurs
         long comLength=k/strLen;
 

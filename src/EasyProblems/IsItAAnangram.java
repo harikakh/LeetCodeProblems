@@ -27,6 +27,7 @@ public class IsItAAnangram {
         for(int i=0;i<str1.length();i++)
         {
             c[str1.charAt(i) - 'a']++;
+
         }
 
         for(int j=0;j<str2.length();j++)

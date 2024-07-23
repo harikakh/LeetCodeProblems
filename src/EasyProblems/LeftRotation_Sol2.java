@@ -10,7 +10,7 @@ public class LeftRotation_Sol2 {
     {
 
         int[] nums={1,2,3,4,5};
-        int k=4;
+        int k=3;
         //reverse all the array elements
         reverseArray(nums,0,nums.length-1);
 
