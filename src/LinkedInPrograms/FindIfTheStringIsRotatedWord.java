@@ -16,7 +16,7 @@ public class FindIfTheStringIsRotatedWord {
            return false;
        }
          str1=str1+str1;
-      if(str1.indexOf(str2)!=-1)
+      if(str1.indexOf(str2)!=0)
       {
           return true;
       }

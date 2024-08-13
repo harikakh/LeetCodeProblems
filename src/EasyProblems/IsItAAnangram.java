@@ -10,7 +10,7 @@ public class IsItAAnangram {
     public static void main(String[] args)
     {
 
-        System.out.println(testAnagram("xyyx"));
+        System.out.println(testAnagram("xyyuyx"));
     }
 
     public static int testAnagram(String s)
